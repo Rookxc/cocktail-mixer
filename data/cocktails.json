@@ -1,0 +1,18 @@
+{
+	"cocktails": [
+        {
+			"id": "000",
+			"name": "JägerCola",
+			"ingredients": ["Jägermeister", "Coca-Cola", "Ice cubes"],
+            "quantityML": ["25ml", "200ml", "3"],
+            "quantityOZ": ["2oz", "4oz", "3"]
+		},
+		{
+			"id": "001",
+			"name": "Cuba libre",
+			"ingredients": ["White Rum", "Coca-Cola", "Lime juice", "Lime wedge"],
+            "quantityML": ["25ml", "200ml", "25ml", "1"],
+            "quantityOZ": ["2oz", "4oz", "2oz", "1"]
+		}
+	]
+}
